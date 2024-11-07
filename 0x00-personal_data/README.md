@@ -77,3 +77,6 @@ This project contains tasks for learning to protect a user's personal data.
     + `hashed_password`: `bytes` type.
     + `password`: `str` type.
   + Use bcrypt to validate that the provided password matches the hashed password.
+
+
+Modified by Malcolm Iheremelam
